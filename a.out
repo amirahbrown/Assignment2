@@ -1,0 +1,16 @@
+// input/output example
+#include <iostream>
+#include <string>
+using namespace std;
+
+int main()
+{
+	string username;
+	cout << Amirah Brown: ;
+	cin >> amirahbrown;
+	cout << Hello, << amirahbrown << .  << endl
+		<< What's your name? Amirah << endl
+		<< What's your age? 20 << endl
+		What's your favorite thing? Music << endl
+		Hi, Amirah << endl
+		I know you are 20 years old and like Music << endl
